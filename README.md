@@ -17,24 +17,24 @@ study area were utilized for this. The area of interest for this study is a squa
 Projected longitude and latitude values of the upper left and bottom right corners of this bounding
 box into meters are ([357,737.03, 632593.82], [5016135.99, 5204957.80]).
 
-<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/roi.png" width=800>
+<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/roi.png" width=600>
 
 ## Ground Truth Data:
 
 ### 11-class:
 
-<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/slovenia.png" width=800>
+<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/slovenia.png" width=600>
 
 ### 2-class:
 
-<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/2_class_roi.png" width=800>
+<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/2_class_roi.png" width=600>
 
 ## Results
 
 Accuracy of all models
 
-<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/accuracy.png" width=500>
+<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/accuracy.png" width=600>
 
 Accuracy with Catboost (Best performing classifier)
 
-<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/catboost_conf.png" width=500>
+<img src="https://github.com/anerip98/automated-cropland-classification/blob/main/images/catboost_conf.png" width=600>
