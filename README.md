@@ -1,5 +1,7 @@
 # Accurate Cropland Delineation from Multi-Temporal Satellite Images using Spatio-Temporal Edge Detection
 
+This work was done as part of a research training/internship at the Space Application Center at the Indian Space Research Organization (ISRO)
+
 In this study, a dual class cropland classification for the area of study is produced using pixel based machine
 learning methods on Sentinel-2 satellite multi-spectral temporal images using the red, green, blue, near infrared and shortwave
 infrared bands and derived indices - Normalized Difference Vegetation Index (NDVI), Normalized Difference Water Index
